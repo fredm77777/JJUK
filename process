@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>接案流程</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <a href="index.html">首頁</a>
+        <a href="works.html">作品分類</a>
+        <a href="plans.html">方案選擇</a>
+    </nav>
+
+    <h2>接案流程</h2>
+    <ol>
+        <li>1. 初步諮詢</li>
+        <li>2. 報價與合約</li>
+        <li>3. 設計提案</li>
+        <li>4. 修稿與確認</li>
+        <li>5. 交付與結案</li>
+    </ol>
+    <button>聯絡我們</button>
+
+</body>
+</html>
