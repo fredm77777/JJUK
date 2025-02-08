@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>方案選擇</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <a href="index.html">首頁</a>
+        <a href="works.html">作品分類</a>
+        <a href="process.html">接案流程</a>
+    </nav>
+
+    <h2>方案選擇</h2>
+    <div class="grid">
+        <div class="plan">
+            <h3>基本方案</h3>
+            <p>適合個人品牌</p>
+            <button>了解更多</button>
+        </div>
+        <div class="plan">
+            <h3>進階方案</h3>
+            <p>適合企業與電商</p>
+            <button>了解更多</button>
+        </div>
+    </div>
+
+</body>
+</html>
